@@ -1,0 +1,27 @@
+table = masa 
+chair = sandalye
+bottle = şişe
+book = kitap
+bed = yatak
+page = sayfa
+bag = çanta
+box = kutu
+pen = kalem
+handkerchief = mendil
+
+This is = Bu
+That is, It is = O
+and = ve
+
+E.g.
+O bir şişe.
+Bu bir kitap.
+O bir masa.
+Bu bir mendil.
+
+Bu bir sandalye ve yatak.
+
+These are = bunlar
+Those are = şunlar
+
+bunlar üç yataklar
